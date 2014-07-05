@@ -1,5 +1,7 @@
 # dbot-list
 
+![Travis CI](https://travis-ci.org/dddware/dbot-list.svg)
+
 List plugin for [dbot](https://github.com/dddware/dbot).
 
 ## Usage
