@@ -1,6 +1,7 @@
 {
   "name": "dbot-list",
   "description": "List plugin for dbot",
+  "version": "0.0.1",
   "main": "dbot.js",
   "scripts": {
     "test": "jasmine-node dbot-list.spec.js"
