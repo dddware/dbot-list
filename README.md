@@ -15,5 +15,5 @@ A list of available plugins with the command regular expression and the descript
 ## Tests
 
 ```shell
-npm test # run tests
+npm test
 ```
